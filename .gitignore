@@ -1,7 +1,6 @@
 *.pdf
 *.sty
 *.tex
-*.sh
 hw4-code/part-1-code/__pycache__/
 hw4-code/part-1-code/out/
 hw4-code/part-1-code/out_augmented/
