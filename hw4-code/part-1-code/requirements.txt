@@ -1,0 +1,9 @@
+transformers==4.21.0
+datasets==2.6.0
+torch==1.13.1
+evaluate==0.3.0
+scikit-learn==1.2.1
+nltk==3.8.1
+huggingface-hub==0.15.0
+pyarrow==10.0.1
+fsspec==2022.11.0

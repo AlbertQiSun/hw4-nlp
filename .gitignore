@@ -1,0 +1,15 @@
+*.pdf
+*.sty
+*.tex
+*.sh
+hw4-code/part-1-code/__pycache__/
+hw4-code/part-1-code/out/
+hw4-code/part-1-code/out_augmented/
+hw4-code/part-1-code/out_original.txt
+hw4-code/part-1-code/out_transformed.txt
+hw4-code/part-1-code/data/
+hw4-code/part-2-code/__pycache__/
+hw4-code/part-2-code/checkpoints/
+hw4-code/part-2-code/records/
+hw4-code/part-2-code/results/
+hw4-code/part-2-code/data/
